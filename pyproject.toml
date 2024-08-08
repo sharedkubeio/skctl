@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "skctl"
-version = "0.1.0"
+version = "0.1.1"
 description = "skctl is the Sharedkube's CLI tool"
 authors = ["Patryk Kobielak <patryk.kobielak@gmail.com>"]
 readme = "README.md"
