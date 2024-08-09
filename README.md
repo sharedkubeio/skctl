@@ -2,11 +2,20 @@
 skctl is the Sharedkube's CLI tool
 
 ## Installation
-It's best to install `skctl` via `pipx`:
+
+It's best to install the latest `skctl` via `pipx`:
 
 ```shell
 pipx install git+https://github.com/sharedkubeio/skctl
 ```
+
+Alternatively, you can install it via Homebrew:
+
+```shell
+brew tap sharedkubeio/skctl
+brew install skctl
+```
+
 
 ## Usage
 
